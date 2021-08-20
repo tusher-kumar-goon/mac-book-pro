@@ -1,3 +1,12 @@
-h1{
-    color: red;
+*{
+    margin: 0;
+    padding: 0;
+}
+.mac-img img{
+    width: 90%;
+    height: 60%;
+    margin: auto;
+}
+.table-up{
+   border-top: 2px solid black;
 }
